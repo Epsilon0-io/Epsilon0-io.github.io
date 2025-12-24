@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Newton's Methodology
-
 AP Calculus proofs and explanations.
 
 ## Topics
