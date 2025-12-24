@@ -1,3 +1,5 @@
 theme: minima
 title: From First Principles
 description: AP Calculus AB & BC proofs, limits, derivatives, and integrals explained step by step.
+header_pages:
+  - units/limits.md
